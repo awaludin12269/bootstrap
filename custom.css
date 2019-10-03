@@ -1,0 +1,43 @@
+.kiri {
+    background: blue;
+}
+.kanan {
+    background: yellow;
+}
+
+.banner {
+    text-align: center;
+}
+
+.card {
+    margin: 0 10px;
+}
+
+.form {
+    margin: 40px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.jarak {
+    margin-top: 30px;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 30px;
+}
+.display-4 , .card-title{
+    color: blue!important;
+}
+.card-img-top{
+    height: 200px;
+}
+.carousel-item img{
+    height: 400px!important;
+}
+.saya {
+    margin: 0 auto!important;
+    text-align: center;
+}
